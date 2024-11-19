@@ -1,3 +1,3 @@
 [submodule "client"]
-    path = /home/applab/client
+    path = client
     url = https://github.com/rjOwl/Talk2PDFClient
